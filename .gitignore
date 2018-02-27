@@ -1,0 +1,7 @@
+# Pliki projektowe IntelliJ
+.idea
+*.iml
+
+# gradle
+.gradle
+build
